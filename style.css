@@ -1,0 +1,13 @@
+ul{
+    background-color: blueviolet;
+    font-size: 20px;
+    font-style: oblique;
+    font-variant: small-caps;
+}
+ol{
+    background-color:whitesmoke;
+    font-size: larger;
+    font-style: var(20px);
+    font-display:inherit;
+    
+}
